@@ -1,0 +1,201 @@
+,Title,Release_year,Director,Genre,Rating
+0,Interstellar,2014,Christopher Nolan,"Adventure,Drama,Sci-Fi",8.7
+1,The Wolf of Wall Street,2013,Martin Scorsese,"Biography,Comedy,Crime",8.2
+2,Joker,2019,Todd Phillips,"Crime,Drama,Thriller",8.4
+3,Guardians of the Galaxy,2014,James Gunn,"Action,Adventure,Comedy",8.0
+4,Avengers: Endgame,2019,Anthony Russo,"Action,Adventure,Drama",8.4
+5,Avengers: Infinity War,2018,Anthony Russo,"Action,Adventure,Sci-Fi",8.4
+6,Deadpool,2016,Tim Miller,"Action,Comedy",8.0
+7,Mad Max: Fury Road,2015,George Miller,"Action,Adventure,Sci-Fi",8.1
+8,Gone Girl,2014,David Fincher,"Drama,Mystery,Thriller",8.1
+9,Star Wars: Episode VII - The Force Awakens,2015,J.J. Abrams,"Action,Adventure,Sci-Fi",7.8
+10,Whiplash,2014,Damien Chazelle,"Drama,Music",8.5
+11,Avengers: Age of Ultron,2015,Joss Whedon,"Action,Adventure,Sci-Fi",7.3
+12,The Martian,2015,Ridley Scott,"Adventure,Drama,Sci-Fi",8.0
+13,Gisaengchung,2019,Bong Joon Ho,"Drama,Thriller",8.5
+14,Iron Man Three,2013,Shane Black,"Action,Adventure,Sci-Fi",7.1
+15,Captain America: The Winter Soldier,2014,Anthony Russo,"Action,Adventure,Sci-Fi",7.8
+16,The Grand Budapest Hotel,2014,Wes Anderson,"Adventure,Comedy,Crime",8.1
+17,Gravity,2013,Alfonso Cuarón,"Drama,Sci-Fi,Thriller",7.7
+18,The Revenant,2015,Alejandro G. Iñárritu,"Action,Adventure,Drama",8.0
+19,Spider-Man: No Way Home,2021,Jon Watts,"Action,Adventure,Fantasy",8.2
+20,Captain America: Civil War,2016,Anthony Russo,"Action,Sci-Fi",7.8
+21,Black Panther,2018,Ryan Coogler,"Action,Adventure,Sci-Fi",7.3
+22,Logan,2017,James Mangold,"Action,Drama,Sci-Fi",8.1
+23,The Imitation Game,2014,Morten Tyldum,"Biography,Drama,Thriller",8.0
+24,Once Upon a Time in... Hollywood,2019,Quentin Tarantino,"Comedy,Drama",7.6
+25,Man of Steel,2013,Zack Snyder,"Action,Adventure,Sci-Fi",7.1
+26,Thor: Ragnarok,2017,Taika Waititi,"Action,Adventure,Comedy",7.9
+27,Doctor Strange,2016,Scott Derrickson,"Action,Adventure,Fantasy",7.5
+28,Prisoners,2013,Denis Villeneuve,"Crime,Drama,Mystery",8.1
+29,Inside Out,2015,Pete Docter,"Animation,Adventure,Comedy",8.1
+30,Knives Out,2019,Rian Johnson,"Comedy,Crime,Drama",7.9
+31,Batman v Superman: Dawn of Justice,2016,Zack Snyder,"Action,Adventure,Sci-Fi",6.5
+32,Arrival,2016,Denis Villeneuve,"Drama,Mystery,Sci-Fi",7.9
+33,Guardians of the Galaxy Vol. 2,2017,James Gunn,"Action,Adventure,Comedy",7.6
+34,The Batman,2022,Matt Reeves,"Action,Crime,Drama",7.8
+35,X-Men: Days of Future Past,2014,Bryan Singer,"Action,Adventure,Sci-Fi",7.9
+36,12 Years a Slave,2013,Steve McQueen,"Biography,Drama,History",8.1
+37,Dune: Part One,2021,Denis Villeneuve,"Action,Adventure,Drama",8.0
+38,Edge of Tomorrow,2014,Doug Liman,"Action,Adventure,Sci-Fi",7.9
+39,John Wick,2014,Chad Stahelski,"Action,Crime,Thriller",7.4
+40,Dunkirk,2017,Christopher Nolan,"Action,Drama,History",7.8
+41,Thor: The Dark World,2013,Alan Taylor,"Action,Adventure,Fantasy",6.8
+42,Suicide Squad,2016,David Ayer,"Action,Adventure,Fantasy",5.9
+43,Ant-Man,2015,Peyton Reed,"Action,Comedy,Sci-Fi",7.3
+44,World War Z,2013,Marc Forster,"Action,Adventure,Horror",7.0
+45,Kingsman: The Secret Service,2014,Matthew Vaughn,"Action,Adventure,Comedy",7.7
+46,Spider-Man: Homecoming,2017,Jon Watts,"Action,Adventure,Sci-Fi",7.4
+47,The Hunger Games: Catching Fire,2013,Francis Lawrence,"Action,Adventure,Sci-Fi",7.5
+48,Now You See Me,2013,Louis Leterrier,"Crime,Mystery,Thriller",7.2
+49,The Hobbit: The Desolation of Smaug,2013,Peter Jackson,"Adventure,Drama,Fantasy",7.8
+50,Wonder Woman,2017,Patty Jenkins,"Action,Adventure,Fantasy",7.4
+51,Rogue One,2016,Gareth Edwards,"Action,Adventure,Sci-Fi",7.8
+52,Jurassic World,2015,Colin Trevorrow,"Action,Adventure,Sci-Fi",6.9
+53,Get Out,2017,Jordan Peele,"Horror,Mystery,Thriller",7.8
+54,Star Wars: Episode VIII - The Last Jedi,2017,Rian Johnson,"Action,Adventure,Fantasy",6.9
+55,Birdman or (The Unexpected Virtue of Ignorance),2014,Alejandro G. Iñárritu,"Comedy,Drama",7.7
+56,Her,2013,Spike Jonze,"Drama,Romance,Sci-Fi",8.0
+57,Frozen,2013,Chris Buck,"Animation,Adventure,Comedy",7.4
+58,1917,2019,Sam Mendes,"Action,Drama,War",8.2
+59,The Hateful Eight,2015,Quentin Tarantino,"Crime,Drama,Mystery",7.8
+60,La La Land,2016,Damien Chazelle,"Comedy,Drama,Music",8.0
+61,Top Gun: Maverick,2022,Joseph Kosinski,"Action,Drama",8.3
+62,Spider-Man: Into the Spider-Verse,2018,Bob Persichetti,"Animation,Action,Adventure",8.4
+63,Blade Runner 2049,2017,Denis Villeneuve,"Action,Drama,Mystery",8.0
+64,Deadpool 2,2018,David Leitch,"Action,Adventure,Comedy",7.6
+65,Captain Marvel,2019,Anna Boden,"Action,Adventure,Sci-Fi",6.8
+66,Nightcrawler,2014,Dan Gilroy,"Crime,Drama,Thriller",7.8
+67,Baby Driver,2017,Edgar Wright,"Action,Crime,Drama",7.6
+68,It,2017,Andy Muschietti,Horror,7.3
+69,The Great Gatsby,2013,Baz Luhrmann,"Drama,Romance",7.2
+70,Don't Look Up,2021,Adam McKay,"Comedy,Drama,Sci-Fi",7.2
+71,The Kashmir Files,2022,Vivek Agnihotri,Drama,8.6
+72,Ex Machina,2014,Alex Garland,"Drama,Sci-Fi,Thriller",7.7
+73,Bohemian Rhapsody,2018,Bryan Singer,"Biography,Drama,Music",7.9
+74,Hacksaw Ridge,2016,Mel Gibson,"Biography,Drama,History",8.1
+75,A Quiet Place,2018,John Krasinski,"Drama,Horror,Sci-Fi",7.5
+76,Tenet,2020,Christopher Nolan,"Action,Sci-Fi,Thriller",7.3
+77,The Hobbit: The Battle of the Five Armies,2014,Peter Jackson,"Adventure,Fantasy",7.4
+78,Coco,2017,Lee Unkrich,"Animation,Adventure,Drama",8.4
+79,Oblivion,2013,Joseph Kosinski,"Action,Adventure,Sci-Fi",7.0
+80,"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh,"Comedy,Crime,Drama",8.1
+81,The Conjuring,2013,James Wan,"Horror,Mystery,Thriller",7.5
+82,Green Book,2018,Peter Farrelly,"Biography,Comedy,Drama",8.2
+83,Spider-Man: Far from Home,2019,Jon Watts,"Action,Adventure,Comedy",7.4
+84,Split,2016,M. Night Shyamalan,"Horror,Thriller",7.3
+85,Zootopia,2016,Byron Howard,"Animation,Adventure,Comedy",8.0
+86,Fury,2014,David Ayer,"Action,Drama,War",7.6
+87,The Amazing Spider-Man 2,2014,Marc Webb,"Action,Adventure,Sci-Fi",6.6
+88,Lucy,2014,Luc Besson,"Action,Sci-Fi,Thriller",6.4
+89,Pacific Rim,2013,Guillermo del Toro,"Action,Adventure,Sci-Fi",6.9
+90,Venom,2018,Ruben Fleischer,"Action,Adventure,Sci-Fi",6.6
+91,American Sniper,2014,Clint Eastwood,"Action,Biography,Drama",7.3
+92,Dallas Buyers Club,2013,Jean-Marc Vallée,"Biography,Drama",7.9
+93,Aquaman,2018,James Wan,"Action,Adventure,Fantasy",6.8
+94,Rush,2013,Ron Howard,"Action,Biography,Drama",8.1
+95,Fantastic Beasts and Where to Find Them,2016,David Yates,"Adventure,Family,Fantasy",7.2
+96,American Hustle,2013,David O. Russell,"Crime,Drama",7.2
+97,Star Trek Into Darkness,2013,J.J. Abrams,"Action,Adventure,Sci-Fi",7.7
+98,The Maze Runner,2014,Wes Ball,"Action,Mystery,Sci-Fi",6.8
+99,John Wick: Chapter 2,2017,Chad Stahelski,"Action,Crime,Thriller",7.4
+100,Spotlight,2015,Tom McCarthy,"Biography,Crime,Drama",8.1
+101,Big Hero 6,2014,Don Hall,"Animation,Action,Adventure",7.8
+102,The Wolverine,2013,James Mangold,"Action,Sci-Fi",6.7
+103,Captain Phillips,2013,Paul Greengrass,"Action,Biography,Crime",7.8
+104,Everything Everywhere All at Once,2022,Daniel Kwan,"Action,Adventure,Comedy",7.8
+105,The Hunger Games: Mockingjay - Part 1,2014,Francis Lawrence,"Action,Adventure,Sci-Fi",6.6
+106,Divergent,2014,Neil Burger,"Action,Adventure,Mystery",6.6
+107,Star Wars: Episode IX - The Rise of Skywalker,2019,J.J. Abrams,"Action,Adventure,Fantasy",6.4
+108,We're the Millers,2013,Rawson Marshall Thurber,"Comedy,Crime",7.0
+109,The Theory of Everything,2014,James Marsh,"Biography,Drama,Romance",7.7
+110,Justice League,2017,Zack Snyder,"Action,Adventure,Fantasy",6.1
+111,Ready Player One,2018,Steven Spielberg,"Action,Adventure,Sci-Fi",7.4
+112,The Big Short,2015,Adam McKay,"Biography,Comedy,Drama",7.8
+113,Elysium,2013,Neill Blomkamp,"Action,Drama,Sci-Fi",6.6
+114,Avatar: The Way of Water,2022,James Cameron,"Action,Adventure,Fantasy",7.6
+115,Dawn of the Planet of the Apes,2014,Matt Reeves,"Action,Adventure,Drama",7.6
+116,Spectre,2015,Sam Mendes,"Action,Adventure,Thriller",6.8
+117,Sicario,2015,Denis Villeneuve,"Action,Crime,Drama",7.7
+118,Doctor Strange in the Multiverse of Madness,2022,Sam Raimi,"Action,Adventure,Fantasy",6.9
+119,X-Men: Apocalypse,2016,Bryan Singer,"Action,Adventure,Sci-Fi",6.9
+120,Oppenheimer,2023,Christopher Nolan,"Biography,Drama,History",8.6
+121,Room,2015,Lenny Abrahamson,"Drama,Thriller",8.1
+122,The Shape of Water,2017,Guillermo del Toro,"Drama,Fantasy,Romance",7.3
+123,Ford v Ferrari,2019,James Mangold,"Action,Biography,Drama",8.1
+124,Ant-Man and the Wasp,2018,Peyton Reed,"Action,Adventure,Comedy",7.0
+125,Passengers,2016,Morten Tyldum,"Drama,Romance,Sci-Fi",7.0
+126,No Time to Die,2021,Cary Joji Fukunaga,"Action,Adventure,Thriller",7.3
+127,Godzilla,2014,Gareth Edwards,"Action,Adventure,Sci-Fi",6.4
+128,This Is the End,2013,Evan Goldberg,"Comedy,Fantasy",6.6
+129,Zack Snyder's Justice League,2021,Zack Snyder,"Action,Adventure,Fantasy",7.9
+130,Jojo Rabbit,2019,Taika Waititi,"Comedy,Drama,War",7.9
+131,Despicable Me 2,2013,Pierre Coffin,"Animation,Adventure,Comedy",7.3
+132,Shang-Chi and the Legend of the Ten Rings,2021,Destin Daniel Cretton,"Action,Adventure,Fantasy",7.4
+133,The Irishman,2019,Martin Scorsese,"Biography,Crime,Drama",7.8
+134,Glass Onion,2022,Rian Johnson,"Comedy,Crime,Drama",7.1
+135,Furious 6,2013,Justin Lin,"Action,Adventure,Crime",7.0
+136,Black Widow,2021,Cate Shortland,"Action,Adventure,Sci-Fi",6.7
+137,Fast & Furious 7,2015,James Wan,"Action,Crime,Thriller",7.1
+138,John Wick: Chapter 3 - Parabellum,2019,Chad Stahelski,"Action,Crime,Thriller",7.4
+139,Jumanji: Welcome to the Jungle,2017,Jake Kasdan,"Action,Adventure,Comedy",6.9
+140,A Star Is Born,2018,Bradley Cooper,"Drama,Music,Romance",7.6
+141,Free Guy,2021,Shawn Levy,"Action,Adventure,Comedy",7.1
+142,Mission: Impossible - Rogue Nation,2015,Christopher McQuarrie,"Action,Adventure,Thriller",7.4
+143,The Equalizer,2014,Antoine Fuqua,"Action,Crime,Thriller",7.2
+144,22 Jump Street,2014,Phil Lord,"Action,Comedy,Crime",7.0
+145,The Fault in Our Stars,2014,Josh Boone,"Drama,Romance",7.7
+146,Maleficent,2014,Robert Stromberg,"Adventure,Family,Fantasy",6.9
+147,The Suicide Squad,2021,James Gunn,"Action,Adventure,Comedy",7.2
+148,Bullet Train,2022,David Leitch,"Action,Comedy,Thriller",7.3
+149,Thor: Love and Thunder,2022,Taika Waititi,"Action,Adventure,Comedy",6.2
+150,The Lego Movie,2014,Phil Lord,"Animation,Action,Adventure",7.7
+151,Monsters University,2013,Dan Scanlon,"Animation,Adventure,Comedy",7.2
+152,Snowpiercer,2013,Bong Joon Ho,"Action,Drama,Sci-Fi",7.1
+153,Shazam!,2019,David F. Sandberg,"Action,Adventure,Comedy",7.0
+154,Bird Box,2018,Susanne Bier,"Horror,Mystery,Sci-Fi",6.6
+155,About Time,2013,Richard Curtis,"Comedy,Drama,Fantasy",7.8
+156,The Gentlemen,2019,Guy Ritchie,"Action,Comedy,Crime",7.8
+157,Midsommar,2019,Ari Aster,"Drama,Horror,Mystery",7.1
+158,Eternals,2021,Chloé Zhao,"Action,Adventure,Fantasy",6.3
+159,Solo: A Star Wars Story,2018,Ron Howard,"Action,Adventure,Sci-Fi",6.9
+160,Mission: Impossible - Fallout,2018,Christopher McQuarrie,"Action,Adventure,Thriller",7.7
+161,Boyhood,2014,Richard Linklater,Drama,7.9
+162,Moana,2016,Ron Clements,"Animation,Adventure,Comedy",7.6
+163,Soul,2020,Pete Docter,"Animation,Adventure,Comedy",8.0
+164,The Nice Guys,2016,Shane Black,"Action,Comedy,Crime",7.4
+165,Hereditary,2018,Ari Aster,"Drama,Horror,Mystery",7.3
+166,How to Train Your Dragon 2,2014,Dean DeBlois,"Animation,Action,Adventure",7.8
+167,The Menu,2022,Mark Mylod,"Comedy,Horror,Thriller",7.2
+168,The Hunger Games: Mockingjay - Part 2,2015,Francis Lawrence,"Action,Adventure,Sci-Fi",6.5
+169,Kingsman: The Golden Circle,2017,Matthew Vaughn,"Action,Adventure,Comedy",6.7
+170,Annihilation,2018,Alex Garland,"Adventure,Drama,Horror",6.8
+171,The Interview,2014,Evan Goldberg,"Action,Adventure,Comedy",6.5
+172,10 Cloverfield Lane,2016,Dan Trachtenberg,"Drama,Horror,Mystery",7.2
+173,Kong: Skull Island,2017,Jordan Vogt-Roberts,"Action,Adventure,Fantasy",6.7
+174,Jurassic World: Fallen Kingdom,2018,J.A. Bayona,"Action,Adventure,Sci-Fi",6.1
+175,Marriage Story,2019,Noah Baumbach,"Drama,Romance",7.9
+176,Pirates of the Caribbean: Dead Men Tell No Tales,2017,Joachim Rønning,"Action,Adventure,Fantasy",6.5
+177,The Secret Life of Walter Mitty,2013,Ben Stiller,"Adventure,Comedy,Drama",7.3
+178,Fifty Shades of Grey,2015,Sam Taylor-Johnson,"Drama,Romance,Thriller",4.2
+179,Barbie,2023,Greta Gerwig,"Adventure,Comedy,Fantasy",7.1
+180,The Hangover Part III,2013,Todd Phillips,"Comedy,Crime",5.8
+181,Transformers: Age of Extinction,2014,Michael Bay,"Action,Adventure,Sci-Fi",5.6
+182,Beauty and the Beast,2017,Bill Condon,"Adventure,Family,Fantasy",7.1
+183,The Man from U.N.C.L.E.,2015,Guy Ritchie,"Action,Adventure,Comedy",7.2
+184,Us,2019,Jordan Peele,"Horror,Mystery,Thriller",6.8
+185,Moonlight,2016,Barry Jenkins,Drama,7.4
+186,Neighbors,2014,Nicholas Stoller,Comedy,6.3
+187,Bridge of Spies,2015,Steven Spielberg,"Drama,History,Thriller",7.6
+188,Guardians of the Galaxy Vol. 3,2023,James Gunn,"Action,Adventure,Comedy",7.9
+189,Incredibles 2,2018,Brad Bird,"Animation,Action,Adventure",7.6
+190,Lady Bird,2017,Greta Gerwig,"Comedy,Drama",7.4
+191,300: Rise of an Empire,2014,Noam Murro,"Action,Drama,War",6.2
+192,Now You See Me 2,2016,Jon M. Chu,"Action,Adventure,Comedy",6.4
+193,The Accountant,2016,Gavin O'Connor,"Action,Thriller",7.3
+194,Nobody,2021,Ilya Naishuller,"Action,Crime,Drama",7.4
+195,Uncut Gems,2019,Benny Safdie,"Crime,Drama,Thriller",7.4
+196,Creed,2015,Ryan Coogler,"Action,Drama,Sport",7.6
+197,Red Notice,2021,Rawson Marshall Thurber,"Action,Comedy,Thriller",6.3
+198,Manchester by the Sea,2016,Kenneth Lonergan,Drama,7.8
+199,The Greatest Showman,2017,Michael Gracey,"Biography,Drama,Musical",7.5
